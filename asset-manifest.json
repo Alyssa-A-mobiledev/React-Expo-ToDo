@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/React-Expo-ToDo/static/js/main.1cb0fae8.js",
+    "static/js/7.1ca83d52.js": "/React-Expo-ToDo/static/js/7.1ca83d52.js",
+    "favicon.ico": "/React-Expo-ToDo/favicon.ico",
+    "index.html": "/React-Expo-ToDo/index.html",
+    "static/media/rocket.png": "/React-Expo-ToDo/static/media/rocket.d2f3bf41d5e4515c39a9.png",
+    "static/media/bell.png": "/React-Expo-ToDo/static/media/bell.cf04af27d6a651c4b904.png",
+    "favicon-32.png": "/React-Expo-ToDo/favicon-32.png",
+    "static/media/star.png": "/React-Expo-ToDo/static/media/star.69c7138684828d68fe5a.png",
+    "static/media/heart.png": "/React-Expo-ToDo/static/media/heart.23b5c2c0eb77d50ff1b4.png",
+    "favicon-16.png": "/React-Expo-ToDo/favicon-16.png",
+    "serve.json": "/React-Expo-ToDo/serve.json",
+    "manifest.json": "/React-Expo-ToDo/manifest.json",
+    "main.1cb0fae8.js.map": "/React-Expo-ToDo/static/js/main.1cb0fae8.js.map",
+    "7.1ca83d52.js.map": "/React-Expo-ToDo/static/js/7.1ca83d52.js.map"
+  },
+  "entrypoints": [
+    "static/js/7.1ca83d52.js",
+    "static/js/main.1cb0fae8.js"
+  ]
+}
